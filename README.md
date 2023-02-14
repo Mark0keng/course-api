@@ -6,7 +6,18 @@ Implementasi API sederhana tentang course
 1. Install Package  
 `npm install`
 
-2. Run Migration  
+2. Create a database and adjust the database name in config/config.json
+```
+"development": {
+    ...
+    ...
+    "database": "course",
+    ...
+    ...
+  },
+```
+
+3. Run Migration  
 `npx sequelize-cli db:migrate`
 
 ## Made with
