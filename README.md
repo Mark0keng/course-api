@@ -20,6 +20,9 @@ Implementasi API sederhana tentang course
 3. Run Migration  
 `npx sequelize-cli db:migrate`
 
+4. Run Server
+`nodemon index`
+
 ## Made with
 - ExpressJS
 - Sequelize (ORM)
