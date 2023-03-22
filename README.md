@@ -1,5 +1,5 @@
 # course-api
-Implementasi API sederhana tentang course
+Implementasi API sederhana menggunakan Nodejs, ExpressJS, Sequelize (ORM)
 
 # How to use
 
